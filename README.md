@@ -1,7 +1,7 @@
 # 01-NLP
 数据集来自https://github.com/Toyhom/Chinese-medical-dialogue-data
 # pip list
-python 3.8
+python 3.8/n
 aiofiles              23.2.1
 annotated-doc         0.0.4
 annotated-types       0.7.0
