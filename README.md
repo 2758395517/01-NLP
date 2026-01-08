@@ -13,13 +13,13 @@
 数据集链接：https://github.com/Toyhom/Chinese-medical-dialogue-data
 
 ## 项目结构
-NLP/
-├── data_数据 # 数据集文件
-├── data.py # 数据处理与清洗模块
-├── database.py # 向量数据库构建与管理
-├── LLM.py # LLM集成与问答系统核心
-├── requirements.txt # 依赖包列表
-└── README.md # 项目说明文档
+NLP/  
+├── data_数据 # 数据集文件  
+├── data.py # 数据处理与清洗模块  
+├── database.py # 向量数据库构建与管理  
+├── LLM.py # LLM集成与问答系统核心  
+├── requirements.txt # 依赖包列表  
+└── README.md # 项目说明文档  
 
 ## 环境要求
 - Python 3.8
