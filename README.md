@@ -28,7 +28,7 @@ NLP/
 ## 安装步骤
 1. **克隆项目**
 ```bash
-git clone [https://github.com/2758395517/01-NLP.git](https://github.com/2758395517/01-NLP)
+git clone https://github.com/2758395517/01-NLP
 cd 01-NLP
 ```
 2. **创建虚拟环境**
